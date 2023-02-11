@@ -1,0 +1,4 @@
+Tests\UpdatePetTests.class
+Tests\GetPetDetailsTests.class
+Tests\CreatePetTests.class
+Tests\DeletePetTests.class
